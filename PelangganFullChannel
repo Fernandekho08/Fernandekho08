@@ -5308,12 +5308,16 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | PIALA PRESIDEN", BRI LIGA 1
 http://iptvtree.net:8080/c4596f70/c3848d92/162138
 
-#EXTINF:-1 tvg-id="" group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 1 (NEW SERVER)
+#EXTINF:-1 tvg-id="" group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 1 (1080p) NEW SERVER
 http://xtv.ooo:8080/321166661/52816191/350972
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
 
-#EXTINF:-1 group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png", SCTV 1 (NEW SERVER)
+#EXTINF:-1 group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png", SCTV 1 1080p (NEW SERVER)
 http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 
-#EXTINF:-1 group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png", SCTV 2 (NEW SERVER)
+#EXTINF:-1 group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png", SCTV 2 1080p (NEW SERVER)
 https://s.id/sctvHD_shareext-xs
+
+#EXTINF:-1 tvg-id="" group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 2 (720p) NEW SERVER
+http://iptvtree.net:8080/everton/7def2e7e/162138
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.m3u8
