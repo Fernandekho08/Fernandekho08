@@ -5324,7 +5324,9 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.m3u8
 
 
 =============================================== OLYMPIC PARIS =================================================
-#EXTINF:-1 group-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",EVENT | OLYMPIC PARIS
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/0hfcsmB/paris2024.png",EVENT | OLYMPIC PARIS
 #EXTINF:-1 group-title="EVENT | OLYMPIC PARIS" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",LIVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
