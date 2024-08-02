@@ -5264,19 +5264,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/32
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
 
 
-==================================================== ASEAN U-19 ================================================== 
-
-#EXTINF:-1 tvg-id="" group-title="⚽AFF U-19⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png", SCTV 1 ASEAN U-19 (by Fernand)
-http://108.181.123.13:8070/live/e9cd5f24/079fd2c9/162141.ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽AFF U-19⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png", SCTV 2 ASEAN U-19 (by Fernand)
-http://108.181.123.13:8070/live/AmirBilali/76448035/162141.ts
-
-#EXTINF:-1 group-title="⚽AFF U-19⚽" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV (NEW SERVER)
-http://xtv.ooo:8080/live/83212539/43153928/351030.ts
-
-#EXTINF:-1 group-title="⚽AFF U-19⚽" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", (NEW SERVER)
-https://s.id/sctvHD_shareext-xs
 
 ================================================ PIALA PRESIDEN =========================================================
 
@@ -5322,6 +5309,44 @@ http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 #EXTINF:-1 group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png", SCTV 2 1080p
 https://s.id/sctvHD_shareext-xs
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjIyNDI5NDZ9
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN",SCTV (1080p LIVE)
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN", SCTV 1 (1080p)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN", SCTV 2 (1080p)
+http://iptvtree.net:8080/c4596f70/c3848d92/162141
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="EVENT | PIALA PRESIDEN",SCTV 3 (1080p)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="EVENT | PIALA PRESIDEN",SCTV 4 (1080p)
+http://iptvtree.net:8080/F18819/6eb39c7d/162141
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EVENT | PIALA PRESIDEN",INDOSIAR (1080p)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN",SCTV (1080p LIVE 2)
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN", INDOSIAR 1 (1080p)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN", INDOSIAR 2 (1080p)
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSW5kb3NpYXJIRCIsInNpZ25hdHVyZUtleSI6ImQ0YmViZmZkYmQ0ZjQ2OTI3ZTBhODkzZDA5NDE2MTE0IiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIyMjQyOTQ2fQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN",INDOSIAR 3 (1080p LIVE 1)
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN",INDOSIAR 4 (1080p LIVE 2)
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo" group-title="EVENT | PIALA PRESIDEN",INDOSIAR 5 (1080p)
+http://iptvtree.net:8080/F18819/6eb39c7d/162138
 
 =============================================== OLYMPIC PARIS =================================================
 
@@ -5386,42 +5411,5 @@ http://iptvtree.net:8080/F18819/6eb39c7d/298550
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | PROLIGA",MOJI 4 (LIVE)
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjIyNDI5NDZ9
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV (1080p LIVE)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", SCTV 1 (1080p)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
-
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", SCTV 2 (1080p)
-http://iptvtree.net:8080/c4596f70/c3848d92/162141
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV 3 (1080p)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV 4 (1080p)
-http://iptvtree.net:8080/F18819/6eb39c7d/162141
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR (1080p)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV (1080p LIVE 2)
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", INDOSIAR 1 (1080p)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", INDOSIAR 2 (1080p)
-http://iptvtree.net:8080/c4596f70/c3848d92/162138
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSW5kb3NpYXJIRCIsInNpZ25hdHVyZUtleSI6ImQ0YmViZmZkYmQ0ZjQ2OTI3ZTBhODkzZDA5NDE2MTE0IiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIyMjQyOTQ2fQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR 3 (1080p LIVE 1)
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR 4 (1080p LIVE 2)
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR 5 (1080p)
-http://iptvtree.net:8080/F18819/6eb39c7d/162138
 
