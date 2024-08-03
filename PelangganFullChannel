@@ -7292,7 +7292,8 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
 #EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel 6 Paris 2024 Olympics 🇲🇾 
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
-
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9asxVMQ.png" group-title="EVENT | OLYMPIC PARIS 2024",SCTV WORTH
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
 
 ################################################ CHANNEL GABUNGAN #######################################################
@@ -7312,7 +7313,7 @@ http://iptvtree.net:8080/F18819/6eb39c7d/298550
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
 
 
-=========================================================== KUALIFIKASI PIALA DUNIA ===================================================================
+=================================================== KUALIFIKASI PIALA DUNIA ===================================================================
 
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
