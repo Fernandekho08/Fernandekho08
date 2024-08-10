@@ -7200,8 +7200,9 @@ http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo" group-title="EVENT | PIALA PRESIDEN",INDOSIAR 5 (1080p)
 http://iptvtree.net:8080/F18819/6eb39c7d/162138
 
-=============================================== OLYMPIC PARIS =================================================
+====================================================================== OLYMPIC PARIS ==================================================================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/0hfcsmB/paris2024.png",EVENT | OLYMPIC PARIS 2024
 
 #EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.imgur.com/9asxVMQ.png",CH 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
