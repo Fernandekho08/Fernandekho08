@@ -7213,9 +7213,19 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 ================================================= BRI LIGA 1 ============================================================
 
-#EXTINF:-1 group-title="EVENT | BRI LIGA 1" tvg-id="Indosiar.id" tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg",BRI LIGA 1 (480p) 
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://xyssatu.pages.dev/hls/ttsd.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | BRI LIGA 1",INDOSIAR 1 (1080p)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | BRI LIGA 1", INDOSIAR 1 (SD)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | BRI LIGA 1", INDOSIAR 2 (SD)
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+
+#EXTINF:-1 group-title="EVENT | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg",INDOSIAR 3 (FHD)
+https://raw.githubusercontent.com/Acil2125/ee/main/sspl.m3u8
+
+#EXTINF:-1 group-title="EVENT | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg",INDOSIAR 4 (FHD)
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 14) ExoPlayerLib/2.13.2
+https://basitv2.pages.dev/liveindos1.m3u8
+
+#EXTINF:-1 group-title="EVENT | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg",INDOSIAR 5 (FHD)
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 14) ExoPlayerLib/2.13.2
+http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzgSuY_L-VXt55vYxZiUwbAk/ts
