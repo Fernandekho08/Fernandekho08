@@ -5000,7 +5000,6 @@ Error 404...
 ######################################################## PERTAMA ##########################################################
 
 
-
 #EXTM3U
 
 
@@ -9012,48 +9011,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:2
 
 
 
-<================================================= CHINA ===========================================================>
-
-
-<========================= China ====================================>
-
-#EXTINF:-1 group-title="CHANNEL | CHINA 🇨🇳"  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | CHINA 🇨🇳" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV
-http://melon-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | CHINA 🇨🇳" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV
-http://melon-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | CHINA 🇨🇳" tvg-logo="http://www.masmiri.50webs.com/page2/Satelite%20TV/Dragon%20tv.png", SHANGHAI DRAGON TV
-http://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | CHINA 🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg", XINGKONG TV
-http://melon-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | CHINA 🇨🇳" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", ANHUI TV
-http://melon-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="CHANNEL | CHINA 🇨🇳", Macau TV
-http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
 
 <=========================================== Korean Channels =======================================================>
 
@@ -9230,101 +9187,6 @@ https://webhdrunns.mizhls.ru/lb/premium491/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-
-====================================================================== OLYMPIC PARIS ==================================================================================
-
-
-#EXTINF:-1 group-logo="https://i.ibb.co.com/0hfcsmB/paris2024.png",EVENT | OLYMPIC PARIS 2024
-
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.imgur.com/9asxVMQ.png",CH 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
-https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.imgur.com/9asxVMQ.png",CH 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
-https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9asxVMQ.png" group-title="EVENT | OLYMPIC PARIS 2024",CH 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium244/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9asxVMQ.png" group-title="EVENT | OLYMPIC PARIS 2024",CH 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium245/playlist.m3u8
-
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.imgur.com/9asxVMQ.png",CH UNIVERSO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
-
-#EXTINF:-1 tvg-id="Eurosport 2 DE.de" tvg-logo="https://i.imgur.com/9asxVMQ.png" group-title="EVENT | OLYMPIC PARIS 2024",CH EUROSPORT 2 🇩🇪
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
-
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel 6 Paris 2024 Olympics 🇲🇾 
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9asxVMQ.png" group-title="EVENT | OLYMPIC PARIS 2024",SCTV 1
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9asxVMQ.png" group-title="EVENT | OLYMPIC PARIS 2024",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/endosiar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9asxVMQ.png" group-title="EVENT | OLYMPIC PARIS 2024",SCTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/esceteve.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT | OLYMPIC PARIS 2024",AFF U19
-http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT | OLYMPIC PARIS 2024",AFF U19
-http://mkctvnew.my.id/u16.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.imgur.com/9asxVMQ.png" group-title="EVENT | OLYMPIC PARIS 2024", EUROSPORT 1 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o7/eurosport/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.imgur.com/9asxVMQ.png" group-title="EVENT | OLYMPIC PARIS 2024", EUROSPORT 2 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
-
-=============================================================== NEW CHANNEL OLYMPIC 2024 ==========================================================================
-
-
-#EXTINF:-1 tvg-chno="41" tvg-id="pptv.iptv36.my.to" group-title="EVENT | OLYMPIC PARIS 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",LIVE 1 Thailand
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-chno="30" tvg-id="mcot.iptv36.my.to" group-title="EVENT | OLYMPIC PARIS 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",LIVE 2 Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
-http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
- 
-#EXTINF: tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="EVENT | OLYMPIC PARIS 2024"0,SuperSport
-http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=3338&extension=ts&play_token=qd3YdQyvFS
- 
-#EXTINF:0 tvg-name="AF | SUPERSPORTS VARIETY 01" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="EVENT | OLYMPIC PARIS 2024", SuperSport Variety 1
-http://kstv.us:8080/live/tH300gvHff/8606073792/47628.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="EVENT | OLYMPIC PARIS 2024",SuperSport Variety 2
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18685&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="EVENT | OLYMPIC PARIS 2024",SuperSport Variety 3
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=ts
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="EVENT | OLYMPIC PARIS 2024",SuperSport Variety 4
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
- 
-
-
 ########################################################################## CHANNEL GABUNGAN #############################################################################
 
 
@@ -9451,28 +9313,16 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | BRI LIGA 1", INDOSIAR 1 (SD)
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | BRI LIGA 1", INDOSIAR 2 (SD)
-http://iptvtree.net:8080/c4596f70/c3848d92/162138
-
-#EXTINF:-1 group-title="EVENT | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg",INDOSIAR 3 (FHD)
-https://raw.githubusercontent.com/Acil2125/ee/main/sspl.m3u8
-
-#EXTINF:-1 group-title="EVENT | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg",INDOSIAR 4 (FHD)
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 14) ExoPlayerLib/2.13.2
-https://basitv2.pages.dev/liveindos1.m3u8
-
-#EXTINF:-1 group-title="EVENT | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg",INDOSIAR 5 (FHD)
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 14) ExoPlayerLib/2.13.2
-http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzgSuY_L-VXt55vYxZiUwbAk/ts
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | BRI LIGA 1", LIGA 1 (New server Calista IPTV)
-http://108.181.132.217:8070/AmirBilali/76448035/162138
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="EVENT | BRI LIGA 1" tvg-id="" tvg-logo="https://i.ibb.co.com/XjgzhZJ/SOCCER-CHANNEL.png", Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="ID| INDOSIAR HD" tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="EVENT | BRI LIGA 1",INDOSIAR Vidio
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-logo="https://bit.ly/logo-liga-bri" group-title="EVENT | BRI LIGA 1",INDOSIAR Vidio
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://gatotkaca007.serv00.net/red/play.m3u8?id=205&type=hls
+
 
 ============================================================ FOX SPORT =====================================================================
 
@@ -10028,4 +9878,4 @@ https://webhdrunns.mizhls.ru/lb/premium116/index.m3u8|referer=https://lewblivehd
 
 
 #EXTM3U
-#EXTM3U billed-msg="PLAYLIST PERIODE SEPTEMBER-OKTOBER 2024"
+#EXTM3U billed-msg="CALISTA-IPTV SEPTEMBER 2024"
