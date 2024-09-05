@@ -1,52 +1,35 @@
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | PROLIGA", MOJI 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | PROLIGA", MOJI 2
-http://iptvtree.net:8080/c4596f70/c3848d92/298550
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | PROLIGA",MOJI 3
-http://iptvtree.net:8080/F18819/6eb39c7d/298550
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | PROLIGA",MOJI 4 (LIVE)
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjIyNDI5NDZ9
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV (1080p LIVE)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", SCTV 1 (1080p)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
-
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", SCTV 2 (1080p)
-http://iptvtree.net:8080/c4596f70/c3848d92/162141
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV 3 (1080p)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV 4 (1080p)
-http://iptvtree.net:8080/F18819/6eb39c7d/162141
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR (1080p)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV (1080p LIVE 2)
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", INDOSIAR 1 (1080p)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", INDOSIAR 2 (1080p)
-http://iptvtree.net:8080/c4596f70/c3848d92/162138
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSW5kb3NpYXJIRCIsInNpZ25hdHVyZUtleSI6ImQ0YmViZmZkYmQ0ZjQ2OTI3ZTBhODkzZDA5NDE2MTE0IiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIyMjQyOTQ2fQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR 3 (1080p LIVE 1)
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR 4 (1080p LIVE 2)
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR 5 (1080p)
-http://iptvtree.net:8080/F18819/6eb39c7d/162138
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-START:TIME-OFFSET=4
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:688
+#EXTINF:4,
+ts77.3xstm.one_3x_574727-1725561936567.ts?_ctump=2AHnKM8SI1p6Lz55DTqunJ5aqJImp3IlZl5vYJAxov5hMKD%3D&_ctuph=YNbFlL5fY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5ZmL1Awpho2E0&_ctutt=bYfE8AFtZl41
+#EXTINF:4,
+ts77.3xstm.one_3x_574727-1725561941327.ts?_ctump=RPAVqiL1I1p6Lz55DTqunJ5aqJImp3IlZl5vYJAxov5hMKD%3D&_ctuph=VdeRfwpxY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5AQRmZwphnz5fpN%3D%3D&_ctutt=jOEOZaNYZl41
+#EXTINF:4,
+ts77.3xstm.one_3x_574727-1725561945046.ts?_ctump=D6zqD7XQI1p6Lz55DTqunJ5aqJImp3IlZl5vYJAxov5hMKD%3D&_ctuph=8mOjs18bY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5AQHjAQLhM2yz&_ctutt=aG5xRcDAZl41
+#EXTINF:4,
+ts77.3xstm.one_3x_574727-1725561948707.ts?_ctump=TsLkPNj1I1p6Lz55DTqunJ5aqJImp3IlZl5vYJAxov5hMKD%3D&_ctuph=7lNj9xQNY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5AQt3ZQpho2Ej&_ctutt=eEdvUKtGZl41
+#EXTINF:4,
+ts77.3xstm.one_3x_574727-1725561953166.ts?_ctump=ZjOQCFS7I1p6Lz55DTqunJ5aqJImp3IlZl5vYJAxov5hMKD%3D&_ctuph=Zj2e1S8BY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5AGZkAwLhq29zMwV%3D&_ctutt=ljWofSsyZl41
+#EXTINF:4.88,
+ts77.3xstm.one_3x_574727-1725561956707.ts?_ctump=GbSeIHupI1p6Lz55DTqunJ5aqJImp3IlZl5vYJAxov5hMKD%3D&_ctuph=ckqGgXNaY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5AGL3ZQphp3qz&_ctutt=yVf6zAapAP4mBN%3D%3D
+#EXTINF:4,
+ts77.3xstm.one_3x_574727-1725561961447.ts?_ctump=jCIRenKJI1p6Lz55DTqunJ5aqJImp3IlZl5vYJAxov5hMKD%3D&_ctuph=jnO0SLWhY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5AwR0AQphLzyh&_ctutt=1udYRoXdZl41
+#EXTINF:4.96,
+ts77.3xstm.one_3x_574727-1725561965107.ts?_ctump=vQ8SmKOWI1p6Lz55DTMipz1ypaquqzIwA3HhLv1wMT4hozI0&_ctuph=IYQT97snY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5AwHkZQpho2Em&_ctutt=z44Tpz3CAP40At%3D%3D
+#EXTINF:4.72,
+ts77.3xstm.one_3x_574727-1725561972168.ts?_ctump=8AzjmBFbI1p6Lz55DTMipz1ypaquqzIwA3HhLv1wMT4hozI0&_ctuph=2Qimy0sAY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5AmVkAwthnaOyMj%3D%3D&_ctutt=eTdkFGLPAP4lZt%3D%3D
+#EXTINF:4,
+ts77.3xstm.one_3x_574727-1725561976488.ts?_ctump=Uuw1GQEXI1p6Lz55DTMipz1ypaquqzIwA3HhLv1wMT4hozI0&_ctuph=k9sPgl1HY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5AmL0BQthp2Iu&_ctutt=biXhCWqLZl41
+#EXTINF:4,
+ts77.3xstm.one_3x_574727-1725561980428.ts?_ctump=VT4xa7OtI1p6Lz55DTMipz1ypaquqzIwA3HhLv1wMT4hozI0&_ctuph=slLhk63PY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5BQN0Zwthp2y0&_ctutt=G06y1M1EZl41
+#EXTINF:4.96,
+ts77.3xstm.one_3x_574727-1725561984347.ts?_ctump=l6BRKkIQI1p6Lz55DTMipz1ypaquqzIwA3HhLv1wMT4hozI0&_ctuph=GNMrWbEgY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5BQDmAQphqTAf&_ctutt=TLaZsEdWAP40At%3D%3D
+#EXTINF:4.4,
+ts77.3xstm.one_3x_574727-1725561988688.ts?_ctump=SGJTWWywI1p6Lz55DTMipz1ypaquqzIwA3HhLv1wMT4hozI0&_ctuph=XyPNDZJOY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5BQt2BQthMTIl&_ctutt=42vWamsMZl45ZQNjZQNjZQNjZQNjZQN0
+#EXTINF:4.28,
+ts77.3xstm.one_3x_574727-1725561992927.ts?_ctump=Ds4fVVdmI1p6Lz55DTMipz1ypaquqzIwA3HhLv1wMT4hozI0&_ctuph=dYvW4TMXY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5BGV5ZwphrUOc&_ctutt=h2OjvQyGZl43BQNjZQNjZQNjZQNjZQNl
+#EXTINF:4.44,
+ts77.3xstm.one_3x_574727-1725561997547.ts?_ctump=lkwahW7TI1p6Lz55DTMipz1ypaquqzIwA3HhLv1wMT4hozI0&_ctuph=8NCnbMOAY2AzLJkfY3ZlZQNkY3LmLv9iZ3AjpGp0BT5IEGOjHJWcJGASoHSgpTunZ3IgpIDjnT8lAKxip3IjMKViqUZ3Al4mrUA0oF5iozIsZ3usAGp0AmV3YGR3ZwH1AwR5BGp1AQphrzyj&_ctutt=NTYzetpuZl45AQNjZQNjZQNjZQNjZQN0
