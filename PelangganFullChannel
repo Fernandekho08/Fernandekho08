@@ -7456,6 +7456,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="CHANNEL | INDONESIA 🇮🇩",MNCTV HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
+#EXTINF:-1 group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png", MNCTV (NEW)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165054
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
