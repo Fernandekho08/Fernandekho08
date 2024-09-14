@@ -10271,17 +10271,6 @@ https://webhdrunns.mizhls.ru/lb/premium432/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="Arena Sport 1 Premium" tvg-logo="https://i.imgur.com/6DQ2FA0.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",Arena Sport 1 Premium
 https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="https://i.imgur.com/6DQ2FA0.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",ASTRO SUPERSPORT 1
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103623
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="https://i.imgur.com/6DQ2FA0.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",ASTRO SUPERSPORT 2
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103624
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="https://i.imgur.com/6DQ2FA0.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",ASTRO SUPERSPORT 3
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103625
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="https://i.imgur.com/6DQ2FA0.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",ASTRO SUPERSPORT 4
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103626
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO: SS 5" tvg-logo="https://i.imgur.com/6DQ2FA0.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",ASTRO SUPERSPORT 5
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110275
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/6DQ2FA0.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
