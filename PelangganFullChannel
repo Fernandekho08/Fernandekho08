@@ -8398,7 +8398,6 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://musangtv.biz.id/ayamxx/x.php?id=6317&type=drm 
 https://chiva.my.id/sc/avid/play.m3u8?id=204&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
