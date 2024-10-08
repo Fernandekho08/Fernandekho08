@@ -8231,7 +8231,7 @@ https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehd
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=G47j2xfTRUeYOiw93D0o/A
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+13rX2iP1n7CDHEZHH9FkA", "kid":"G47j2xfTRUeYOiw93D0o/A" } ], "type":"temporary" }
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="CHANNEL | SINGAPORE 🇸🇬" tvg-id="Ch 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/M5_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207025652",Channel 5
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
