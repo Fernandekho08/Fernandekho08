@@ -8232,7 +8232,7 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+13rX2iP1n7CDHEZHH9FkA", "kid":"G47j2xfTRUeYOiw93D0o/A" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="CHANNEL | SINGAPORE 🇸🇬" tvg-id="Ch 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/M5_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207025652" group-logo="" group-title="",Channel 5
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="CHANNEL | SINGAPORE 🇸🇬" tvg-id="Ch 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/M5_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207025652",Channel 5
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
 #EXTINF:-1 tvg-id="Channel 8 HD" tvg-logo="https://i.ibb.co.com/VQ1vCzC/m8.png",Channel 8 🇸🇬
@@ -8243,7 +8243,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YfC35TdoIU1NVpF/vPwnIw", "kid":"mB/aHUKqTYGzZ9hXlER+Kg" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="CHANNEL | SINGAPORE 🇸🇬" tvg-id="Ch U" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/MU_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207235427" group-logo="" group-title="",Channel U
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="CHANNEL | SINGAPORE 🇸🇬" tvg-id="Ch U" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/MU_2023.svg/revision/latest/scale-to-width-down/250?cb=20230207235427",Channel U
 https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 
 #EXTINF:-1 tvg-id="Suria HD"  tvg-logo="https://i.ibb.co.com/KLfmfq7/msuria.png",Channel Suria 🇸🇬
