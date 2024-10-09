@@ -8437,7 +8437,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://media.kompas.tv/library/image/content_article/article_img/20240404124325.jpg",Shopee Cup 2024 🇮🇩
-#EXTGRP: Shopee Cup 2024
+#EXTGRP: EVENT | Shopee Cup 2024
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
