@@ -7283,6 +7283,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/oboxe53wyo/o
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="CHANNEL | FOX SPORT", FOX SPORTS 3 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="CHANNEL | FOX SPORT", FOX SPORTS PREMIUM 🇲🇽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -7306,6 +7313,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/oboxe53wyo/o
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="CHANNEL | FOX SPORT", FOX SPORTS 3 🇲🇽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/0mB2ZHs/fxsppremmx.png" group-title="CHANNEL | FOX SPORT", FOX SPORTS PREMIUM 🇲🇽 🟡
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -7314,51 +7328,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tepjqej1ys/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-
-#EXTINF:-1 tvg-name="Fox Sports 1 USA" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",Fox Sports 1 USA
-https://webhdrunns.mizhls.ru/lb/premium39/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="Fox Sports 2 USA" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",Fox Sports 2 USA
-https://webhdrunns.mizhls.ru/lb/premium758/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="FOX Soccer Plus" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",FOX Soccer Plus
-https://webhdrunns.mizhls.ru/lb/premium756/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="Fox Cricket" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",Fox Cricket
-https://webhdrunns.mizhls.ru/lb/premium369/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="FOX Deportes USA" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",FOX Deportes USA
-https://webhdrunns.mizhls.ru/lb/premium643/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="FOX Sports 502 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",FOX Sports 502 AU
-https://webhdrunns.mizhls.ru/lb/premium820/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="FOX Sports 503 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",FOX Sports 503 AU
-https://webhdrunns.mizhls.ru/lb/premium821/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="FOX Sports 504 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",FOX Sports 504 AU
-https://webhdrunns.mizhls.ru/lb/premium822/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="FOX Sports 505 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",FOX Sports 505 AU
-https://webhdrunns.mizhls.ru/lb/premium823/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="FOX Sports 506 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",FOX Sports 506 AU
-https://webhdrunns.mizhls.ru/lb/premium824/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="FOX Sports 507 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",FOX Sports 507 AU
-https://webhdrunns.mizhls.ru/lb/premium825/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="Fox Sports Argentina" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",Fox Sports Argentina
-https://webhdrunns.mizhls.ru/lb/premium767/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="Fox Sports 2 Argentina" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",Fox Sports 2 Argentina
-https://webhdrunns.mizhls.ru/lb/premium788/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="Fox Sports 3 Argentina" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",Fox Sports 3 Argentina
-https://webhdrunns.mizhls.ru/lb/premium789/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="Fox Sports Premium MX" tvg-logo="https://lo1.in/us/fox33.png" group-title="CHANNEL | FOX SPORT",Fox Sports Premium MX
-https://webhdrunns.mizhls.ru/lb/premium830/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 =============================================================== DAZN & LALIGA =============================================================================
 
