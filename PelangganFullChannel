@@ -8831,6 +8831,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
+#EXTINF:-1 tvg-logo="http://raziva.biz.id/logo/sportstars.png" group-title="EVENT | BRI LIGA 1",Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bimasakti.serv00.net/keurplus/drm.php?id=1002
+https://bimasakti.serv00.net/keurplus/index.mpd?id=1002
 
 ============================================== LIGA INGGRIS ===========================================
 
