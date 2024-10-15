@@ -8118,6 +8118,9 @@ PROLIGA
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="CHANNEL | PROLIGA",Moji (Proliga)
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298550
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZgn_vTyF1GsMh5NzAdtv85tt-PaPTGD22tFJRHNR7PlJ9u8MeKH-LCm8&s=10" group-title="CHANNEL | PROLIGA",Moji (Proliga) new
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://kametv.my.id/pdx/play.m3u8?id=206
 ================================================ SPORTSTARS =========================================================
 
 
