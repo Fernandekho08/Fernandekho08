@@ -8284,12 +8284,23 @@ BEIN SPORT ARAB
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="EVENT | BRI LIGA 1",Indosiar FHD no acak
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 
-Indosiar (My Teve)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dbqSnQ3/d-Fyd-JWdg-400x400.jpg" group-title="EVENT | BRI LIGA 1",Liga 1 (Live Only) A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=658251d7ee4751bcc8a4774e54a015f6:07323279fca83f9084f057c12d2d3e84
+https://kametv.my.id/pdx/play.mpd?id=17625
 
-#EXTINF:-1 group-title="EVENT | BRI LIGA 1" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar HD (MyTeve)
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dbqSnQ3/d-Fyd-JWdg-400x400.jpg" group-title="EVENT | BRI LIGA 1",Liga 1 (Live Only) B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
+https://kametv.my.id/pdx/play.mpd?id=17624
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dbqSnQ3/d-Fyd-JWdg-400x400.jpg" group-title="EVENT | BRI LIGA 1",(Live Only) C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
+https://kametv.my.id/pdx/play.mpd?id=17623
 ============================================================ FOX SPORT =====================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="CHANNEL | FOX SPORT", FOX SPORTS 🇲🇽
@@ -8397,6 +8408,23 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 ============================================================== SSC ================================================================================
+
+#EXTINF:-1 tvg-name="SSC Sport 1" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="CHANNEL | SPORT",SSC Sport 1
+https://webhdrunns.mizhls.ru/lb/premium614/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SSC Sport 2" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="CHANNEL | SPORT",SSC Sport 2
+https://webhdrunns.mizhls.ru/lb/premium615/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SSC Sport 3" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="CHANNEL | SPORT",SSC Sport 3
+https://webhdrunns.mizhls.ru/lb/premium616/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SSC Sport 4" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="CHANNEL | SPORT",SSC Sport 4
+https://webhdrunns.mizhls.ru/lb/premium617/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SSC Sport 5" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="CHANNEL | SPORT",SSC Sport 5
+https://webhdrunns.mizhls.ru/lb/premium618/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SSC Sport Extra 1" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="CHANNEL | SPORT",SSC Sport Extra 1
+https://webhdrunns.mizhls.ru/lb/premium619/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SSC Sport Extra 2" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="CHANNEL | SPORT",SSC Sport Extra 2
+https://webhdrunns.mizhls.ru/lb/premium620/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SSC Sport Extra 3" tvg-logo="https://lo1.in/FCB/ssc10.png" group-title="CHANNEL | SPORT",SSC Sport Extra 3
+https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 
